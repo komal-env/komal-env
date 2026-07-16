@@ -1,0 +1,16 @@
+# Source photo — keep private, not for public repo
+source-photo.jpg
+Passport_Size_Photo.jpg
+
+# Preprocessed photo (intermediate file)
+source-prepped.png
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db

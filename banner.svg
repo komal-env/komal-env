@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="0.5" stop-color="#312E81"/>
+      <stop offset="1" stop-color="#4F46E5"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="900" height="210" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="900" height="210" fill="url(#bg)"/>
+
+    <path d="M0,210 L0,140 Q225.0,180 450.0,140 T900,140 L900,210 Z"
+          fill="#ffffff" opacity="0.06"/>
+    <path d="M0,210 L0,170 Q225.0,120 450.0,170 T900,170 L900,210 Z"
+          fill="#ffffff" opacity="0.05"/>
+
+    <text x="450.0" y="72" text-anchor="middle" fill="#FFFFFF"
+          font-family="'Segoe UI', ui-sans-serif, system-ui, sans-serif"
+          font-size="46" font-weight="700">Komal Priya</text>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+       font-size="19" fill="#C7D2FE" text-anchor="middle">
+      <text x="450.0" y="120" opacity="0">Aspiring AI Engineer &amp; ML Enthusiast
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0000;0.0926;0.2407;0.3333;1" dur="5.4s" repeatCount="indefinite"/>
+      </text>
+      <text x="450.0" y="120" opacity="0">Building with Python + Data Structures &amp; Algorithms
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3333;0.4259;0.5741;0.6667;1" dur="5.4s" repeatCount="indefinite"/>
+      </text>
+      <text x="450.0" y="120" opacity="0">Developing Skills in Generative AI + LLMs
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6667;0.7593;0.9074;1.0000;1" dur="5.4s" repeatCount="indefinite"/>
+      </text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="899" height="209" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.12"/>
+</svg>

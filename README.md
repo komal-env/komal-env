@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Komal Priya — AI Engineering, Machine Learning & Generative AI" />
-
 <table border="0" cellspacing="0" cellpadding="10">
 <tr>
 <td valign="top"><img src="./komal-ascii.svg" width="370" alt="Komal Priya — ASCII portrait" /></td>
 <td valign="top"><img src="./info-card.svg" width="490" alt="Komal Priya — neofetch info card" /></td>
 </tr>
 </table>
+
+<img src="./banner.svg" width="100%" alt="Komal Priya — AI Engineering, Machine Learning & Generative AI" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-komal--env-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-env/)
 [![Email](https://img.shields.io/badge/Email-komalraj2318%40gmail.com-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:komalraj2318@gmail.com)
